@@ -18,6 +18,8 @@ falls inside the model's 68% interval (ideal: 68.27). *Fraction thrown out* is t
 whose interval is too wide to use. One extra row (`is_released = TRUE`) is the previously
 released model for this sample, the baseline to beat. Missing values are `NA`.
 
+<img width="1699" height="900" alt="image" src="https://github.com/user-attachments/assets/8e352aaa-e881-4ed0-82b1-06932159ae4d" />
+
 ## Running it
 
 In R, from this folder:
