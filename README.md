@@ -1,4 +1,4 @@
-# sweep-explorer
+# GaMPEN Sweep Visualization
 
 Shiny app for visualizing hyperparameter sweep of GaMPEN, a Bayesian neural network
 that estimates galaxy structure (bulge-to-total light ratio B/T, effective radius R_e, flux)
